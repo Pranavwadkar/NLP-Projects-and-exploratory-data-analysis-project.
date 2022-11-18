@@ -44,8 +44,8 @@ By calculating the std and mean we can understand that our intial perception of 
 
 #### Further insights from the dataset- 
 #### 1. The total customers are 4372 are visiting the website
-#### 2. Avg value of sales is 1920 per customer
-#### 3. Only 20.9% customers are ordering greater than the average of Sales 
+#### 2. Avg value of sales is 1920 per customer 
+#### 3. Only 20.9% customers are ordering greater than the average value of Sales 
 #### 4. An approxiamte of 93 vists per customer can be concluded from the data
 
 
